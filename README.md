@@ -32,9 +32,9 @@ $  mysql < database_backup.sql
 
 Once Revel framework is installed, you can run the server by:
 
-<code>revel run go-revel-rest</code>
+<code>revel run go-mysql-revel-rest</code>
 
-Note that the project must be located under <code>$GOPATH/src/go-revel-rest</code>
+Note that the project must be located under <code>$GOPATH/src/go-mysql-revel-rest</code>
 
 # Routes
 
