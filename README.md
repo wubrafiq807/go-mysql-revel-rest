@@ -1,5 +1,5 @@
 # go-mysql-revel-rest
-Example of REST API to create and retrieve users with Go,Mysql and Revel framework
+Example of REST API to create and retrieve  fruit items with Go,Mysql and Revel framework
 
 ## Running
 
