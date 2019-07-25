@@ -1,0 +1,7 @@
+module:testrunner
+
+GET     /fruits                                      FruitsController.GetFruits
+GET     /fruits/:id                                  FruitsController.GetFruitById
+POST     /fruits                                     FruitsController.SaveFruit
+PUT     /fruits                                      FruitsController.UpdateFruit
+DELETE     /fruits/:id                                   FruitsController.DeleteFruit
