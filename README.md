@@ -21,6 +21,9 @@ This project uses Revel framework. You can install it by:
 
 <code>go get github.com/revel/cmd/revel</code>
 
+<code>go get gopkg.in/gorp.v2</code>
+
+
 Set up MySQL database, use -u -p flags to provide username and password:
 ```
 $  mysql < database_backup.sql
