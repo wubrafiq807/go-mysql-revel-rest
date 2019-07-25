@@ -1,7 +1,7 @@
 # go-mysql-revel-rest
 Example of REST API to create,retrieve,update and delete items with Go,Mysql and Revel framework
 
-## Running
+# Running
 
 To use this sample you must have Go installed as described [here](https://golang.org/doc/install), and follow the [official Go code organization](https://golang.org/doc/code.html);
 MySQL installed and running, if not please check out [MySQL download page](https://dev.mysql.com/downloads/installer/) and follow [these instructions](http://dev.mysql.com/doc/refman/5.7/en/installing.html).
@@ -51,7 +51,7 @@ The API routes are defined in <code>conf/routes</code> file:
 <code>DELETE /fruits/{id}</code> delete a fruit with id {id}
 
 
-## Technologies
+# Technologies
 Language - [Go](https://golang.org/)<br />
 Web framework - [Revel](https://revel.github.io)<br />
 ORM - [Gorp](https://github.com/go-gorp/gorp)<br />
